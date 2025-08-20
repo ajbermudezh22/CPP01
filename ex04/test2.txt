@@ -1,0 +1,10 @@
+This is another test file with different content.
+Testing multiple replacements: cat, cat, cat, and more cats.
+The word "cat" should be replaced with "dog" everywhere.
+Empty lines should be preserved:
+
+Lines with only spaces:     
+Special characters: !@#$%^&*()_+-=[]{}|;':",./<>?
+Numbers: 1234567890
+Mixed: cat123, 456cat, cat_cat, cat-cat
+End of file with cat.
