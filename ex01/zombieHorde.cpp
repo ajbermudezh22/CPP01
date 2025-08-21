@@ -23,7 +23,8 @@ Zombie*	zombieHorde(int N, std::string name)
 	i = 0;
 	while (i < N)
 	{
-		zombies[i].setName(name);
+		std::string uniqueName = name + "_"  + std::to_string(i + 1);
+		zombies[i].setName(uniqueName);
 		i++;
 	}
 	return (zombies);

@@ -19,4 +19,3 @@ Zombie*	newZombie(std::string name)
 	zombie = new Zombie(name);
 	return (zombie);
 }
-

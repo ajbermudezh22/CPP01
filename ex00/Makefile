@@ -13,7 +13,7 @@
 NAME = BraiiiiiiinnnzzzZ
 SRCS = main.cpp Zombie.cpp newZombie.cpp randomChump.cpp
 OBJS = $(SRCS:.cpp=.o)
-CC = g++
+CC = c++
 RM = rm -f
 CFLAGS = -Wall -Wextra -Werror -std=c++98
 

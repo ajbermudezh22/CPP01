@@ -11,7 +11,7 @@
 # **************************************************************************** #
 
 NAME = Sed_is_for_losers
-CC = g++
+CC = c++
 CFLAGS = -Wall -Wextra -Werror -std=c++98 -pedantic
 SRCs = main.cpp
 

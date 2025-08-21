@@ -11,7 +11,7 @@
 # **************************************************************************** #
 
 NAME = HI_THIS_IS_BRAIN
-CC = g++
+CC = c++
 CFLAGS = -Wall -Wextra -Werror -std=c++98 -pedantic
 SRCs = main.cpp
 
