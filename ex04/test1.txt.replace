@@ -1,7 +1,0 @@
-Hola world! This is a test file.
-The word "world" appears multiple times in this world.
-We will replace "world" with "universe" to test our program.
-This line has no "world" in it.
-But this line has "world" again.
-Let's test with empty strings and special characters: "" and "world".
-The end of the file.
