@@ -30,4 +30,4 @@ class Weapon
 
 };
 
-#endif 
+#endif
